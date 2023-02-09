@@ -7,4 +7,5 @@ This project is currently a one man wip.
 Please send help.
 
 -   [Directory Structure](directoryStructure.md)
+-   [Requirements](requirements.md)
 -   [Design Documents](design.md)
