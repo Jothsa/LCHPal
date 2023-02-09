@@ -8,4 +8,4 @@ Please send help.
 
 -   [Directory Structure](directoryStructure.md)
 -   [Requirements](requirements.md)
--   [Design Documents](design.md)
+-   [Design Document](design.md)
