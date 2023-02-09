@@ -9,12 +9,14 @@ This class holds the color palette.
 #### Variables
 
 * colors Array of Color objects holds the colors
-* rows Array of strings holds the row names
-* cols Array of strings holds the column names
+* rows Array of strings holds the row names. Names must be unique.
+* cols Array of strings holds the column names. Names must be unique.
 
 #### Functions
 * addRow adds a row with default colors
 * addCol adds a column with default colors and a name based off the other columns in the palette
+* setRowName renames a specific row; input int row (or string of old name?), string name
+* setColName renames a specific col; input int col (or string of old name?), string name
 * setRowH sets every color in a row to a specific hue; input int row, float hue
 * setColL sets every color in a column to a specific luminosity; input int col, float lum
 * setColor sets a specific color; input int row, int col, Color color (rename?)
