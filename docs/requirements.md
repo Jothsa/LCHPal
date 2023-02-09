@@ -1,11 +1,10 @@
-# Design
+# Requirements
 
-This details what the application will look like and its features.
-This is a modern color palette maker using the oklch format. It will be accessed via a website. The main screen will feature a large view of the color palette, and a tab switcher. The color palette is made up of a grid of squares of colors. There are several tabs available.
+This is a modern color palette maker using the oklch format. It will be accessed via a website. The main screen will feature a large view of the color palette and a tab switcher. The color palette is made up of a grid of squares of colors. There are several tabs available.
 
 ## Main Tab
 
-The main tab displays a large view of the color palette on the left side of the screen (approx. 2/3 of the screen) and information about the selected color on the right. The information displayed is the color's, L, C, and H values in the OKLCH color space; which display profiles can support this color; and the color's APCA contrast against white and any other user specified colors. The color's L, C, and H values can be adjusted here.
+The main tab displays a large view of the color palette on the left side of the screen (approx. 2/3 of the screen) and information about the selected color on the right. The information displayed is the color's, L, C, and H values in the OKLCH color space; which display profiles can support this color; and the color's APCA contrast against white and any other user specified colors. The color's L, C, and H values can be adjusted here. On mobile the color palette will stack above the color information.
 
 ## Edit View
 
