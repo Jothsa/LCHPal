@@ -1,6 +1,19 @@
 # Design Document
 
+
+## Dependencies
+
+-  Colorjs-io
+
+-  Open-Props
+
+-  PostCSS
+     - JIT Props
+     - Preset Env
+
+
 ## Classes
+
 
 ### Palette
 
