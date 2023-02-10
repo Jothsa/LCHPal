@@ -25,7 +25,7 @@ This class holds the color palette.
 
       - [
 
-        [Row1Col1Color, Row1Col2Color], [Row2Col1Color, Row2Col2Color]
+        [ Row1Col1Color, Row1Col2Color ], [ Row2Col1Color, Row2Col2Color ]
 
         ]
 
