@@ -1,5 +1,13 @@
 # Design Document
 
+## Tech
+
+- Typescript
+- Deno
+- Vue
+- Vite
+- Vitest
+- Playwright
 
 ## Dependencies
 
