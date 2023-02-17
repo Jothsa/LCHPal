@@ -6,7 +6,7 @@ const config = {
     plugins: [
         jit(openProps),
         postcssPresetEnv({
-            stage: 3,
+            stage: 2,
             features: {
                 'nesting-rules': true,
             },
