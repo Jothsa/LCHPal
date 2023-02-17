@@ -5,7 +5,7 @@ const openProps = require('open-props');
 const config = {
     plugins: [
         jit(openProps),
-        postcssPresetEnv({
+        presetEnv({
             stage: 2,
             features: {
                 'nesting-rules': true,
