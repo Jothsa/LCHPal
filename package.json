@@ -41,6 +41,7 @@
   "type": "module",
   "dependencies": {
     "@svelteuidev/composables": "^0.10.0",
-    "@svelteuidev/core": "^0.10.0"
+    "@svelteuidev/core": "^0.10.0",
+    "colorjs.io": "^0.4.3"
   }
 }
