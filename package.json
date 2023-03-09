@@ -26,7 +26,7 @@
     "eslint-plugin-svelte3": "^4.0.0",
     "open-props": "^1.5.5",
     "postcss": "^8.4.21",
-    "postcss-jit-props": "^1.0.11",
+    "postcss-jit-props": "^1.0.12",
     "postcss-load-config": "^4.0.1",
     "postcss-preset-env": "^8.0.1",
     "prettier": "^2.8.0",
